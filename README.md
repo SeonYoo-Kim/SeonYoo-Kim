@@ -54,10 +54,3 @@ RAG 질의응답 서비스를 설계해 실서비스로 운영했고,<br/>
 
 - 「클러스터링 기법을 이용한 제로 샷 산업 텍스처 이상치 탐지」 — KSC2024 한국소프트웨어종합학술대회 **제1저자 발표**
 - **우수발표논문상** — 한국정보과학회 (2025.02)
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeonYoo-Kim&show_icons=true&theme=default&hide_border=true&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeonYoo-Kim&layout=compact&hide_border=true&langs_count=6)
-
-</div>
