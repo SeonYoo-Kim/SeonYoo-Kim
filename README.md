@@ -6,6 +6,7 @@
 
 RAG 질의응답 서비스를 설계해 실서비스로 운영했고,<br/>
 제로샷 이상탐지 연구로 한국정보과학회 KSC2024 우수발표논문상을 받았습니다.<br/>
+시장 데이터 파이프라인의 수집과 스키마, 조회 API를 설계해 운영 중입니다.<br/>
 엣지 장비 위 모델 최적화부터 Spring 백엔드 연동까지, AI가 실제로 돌아가는 전 구간을 다룹니다.
 
 [![Email](https://img.shields.io/badge/tjdn9%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:tjdn9@naver.com)
@@ -24,6 +25,7 @@ RAG 질의응답 서비스를 설계해 실서비스로 운영했고,<br/>
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 
@@ -41,7 +43,8 @@ RAG 질의응답 서비스를 설계해 실서비스로 운영했고,<br/>
 | 프로젝트 | 한 줄 요약 | 스택 |
 |---|---|---|
 | **[Ask SSAFY Anything!](https://github.com/SeonYoo-Kim/Ask-SSAFY-Anything)** | 문서·채팅 로그를 인덱싱하는 RAG 챗봇. 4단계 폴백과 전 답변 출처 표기로 "근거 없으면 답하지 않는" 구조, 실서비스 배포·운영 | Python · FastAPI · ChromaDB · Spring Boot |
-| **[TexSCAN](https://github.com/SeonYoo-Kim/TexSCAN)** | 제로샷 산업 텍스처 이상탐지. 판정 로직 재설계로 런타임 362ms → 32ms(11배), AUROC 0.95 이상 유지 — KSC2024 우수발표논문상 | Python · PyTorch · DBSCAN |
+| **왜올라 (AI Trading Hunter)** <br/><sub>팀 저장소 비공개</sub> | 모의투자 퀀트 전략 플랫폼. 시장 데이터 도메인과 AI 기능 전반 담당. Flyway 마이그레이션 18건과 조회 패턴 기준 복합 인덱스 9종 설계, 정형 화면은 규칙 기반으로 돌려 기본 경로 LLM 호출 0회 | Java · Spring Boot · PostgreSQL · Flyway · Python |
+| **[TexSCAN](https://github.com/SeonYoo-Kim/TexSCAN)** | 제로샷 산업 텍스처 이상탐지. 판정 로직 재설계로 런타임 362ms → 32ms(11배), 기존 최고 성능 방법과 동등한 정확도 유지. KSC2024 우수발표논문상 | Python · PyTorch · DBSCAN |
 | **[쫄래쫄래](https://github.com/SeonYoo-Kim/Choll)** | 사서를 따라다니는 자율주행 북카트. 가림 후 재식별 복구, 기능별 ROS 2 노드 18개, SLAM 포함 전 기능 완성 | ROS 2 · YOLO · TensorRT · Spring Boot · Jenkins |
 
 ## 🎓 Experience & Education
