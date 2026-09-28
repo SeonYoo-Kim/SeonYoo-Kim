@@ -43,7 +43,7 @@ RAG 질의응답 서비스를 설계해 실서비스로 운영했고,<br/>
 | 프로젝트 | 한 줄 요약 | 스택 |
 |---|---|---|
 | **[Ask SSAFY Anything!](https://github.com/SeonYoo-Kim/Ask-SSAFY-Anything)** | 문서·채팅 로그를 인덱싱하는 RAG 챗봇. 4단계 폴백과 전 답변 출처 표기로 "근거 없으면 답하지 않는" 구조, 실서비스 배포·운영 | Python · FastAPI · ChromaDB · Spring Boot |
-| **왜올라 (AI Trading Hunter)** <br/><sub>팀 저장소 비공개</sub> | 모의투자 퀀트 전략 플랫폼. 시장 데이터 도메인과 AI 기능 전반 담당. Flyway 마이그레이션 18건과 조회 패턴 기준 복합 인덱스 9종 설계, 정형 화면은 규칙 기반으로 돌려 기본 경로 LLM 호출 0회 | Java · Spring Boot · PostgreSQL · Flyway · Python |
+| **[왜올라 (AI Trading Hunter)](https://github.com/SeonYoo-Kim/whyup)** <br/><sub>진행 중</sub> | 모의투자 퀀트 전략 플랫폼. 시장 데이터 도메인과 AI 기능 전반 담당. Flyway 마이그레이션 18건과 조회 패턴 기준 복합 인덱스 9종 설계, 정형 화면은 규칙 기반으로 돌려 기본 경로 LLM 호출 0회 | Java · Spring Boot · PostgreSQL · Flyway · Python |
 | **[TexSCAN](https://github.com/SeonYoo-Kim/TexSCAN)** | 제로샷 산업 텍스처 이상탐지. 판정 로직 재설계로 런타임 362ms → 32ms(11배), 기존 최고 성능 방법과 동등한 정확도 유지. KSC2024 우수발표논문상 | Python · PyTorch · DBSCAN |
 | **[쫄래쫄래](https://github.com/SeonYoo-Kim/Choll)** | 사서를 따라다니는 자율주행 북카트. 가림 후 재식별 복구, 기능별 ROS 2 노드 18개, SLAM 포함 전 기능 완성 | ROS 2 · YOLO · TensorRT · Spring Boot · Jenkins |
 
